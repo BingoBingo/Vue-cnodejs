@@ -22,7 +22,6 @@ node server.js
 ```
 npm run dist
 ```
-
 ###开发
 
 ###目录结构
